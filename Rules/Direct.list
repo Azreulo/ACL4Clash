@@ -1,1 +1,2 @@
-PROCESS-NAME,tailscaled,DIRECT
+PROCESS-NAME,tailscaled
+PROCESS-NAME,zerotier-one
