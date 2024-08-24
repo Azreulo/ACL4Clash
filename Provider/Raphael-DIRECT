@@ -1,6 +1,8 @@
 #内网穿透程序
 PROCESS-NAME,tailscaled
 PROCESS-NAME,zerotier-one
+DOMAIN-SUFFIX,tailscaled.com
+DOMAIN-SUFFIX,zerotier.com
 
 #本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
