@@ -1,2 +1,4 @@
 PROCESS-NAME,tailscaled
 PROCESS-NAME,zerotier-one
+DOMAIN-SUFFIX,tailscaled.com
+DOMAIN-SUFFIX,zerotier.com
